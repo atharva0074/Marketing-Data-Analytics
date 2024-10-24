@@ -1,4 +1,4 @@
-# Marketing Analytics: Customer Loyalty Prediction
+# Marketing Analytics:
 
 ## Overview
 
